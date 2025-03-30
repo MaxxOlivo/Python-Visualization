@@ -1,3 +1,3 @@
-Hello everyone, the purpose of this project was to give some oversight to the way that visualizations can be used and purposed through Python. 
-I used the Automobile.csv file in order to add the data needed for my visualizations.
+Hello everyone, the purpose of this project was to give some data analysis into what restarnts are currently in demand and how we can enhance the customer experience. 
+I used the FoodHub.csv file in order to add the data needed for my visualizations.
 
